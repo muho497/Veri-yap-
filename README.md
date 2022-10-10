@@ -1,1 +1,1 @@
-# Veri-yap-
+# Veri-yapıları-
